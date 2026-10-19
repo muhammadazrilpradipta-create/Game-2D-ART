@@ -1,0 +1,6 @@
+{
+  "name": "ROBOT MINI GAMES - 2D Platformer",
+  "description": "Game petualangan platformer 2D bertema Robot Mini mengumpulkan koin energi dan menghindari robot drone musuh, dengan sistem fisika, health bar, audio sintetis, dan kontrol responsif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
